@@ -19,7 +19,7 @@
 ![MONGO DB](https://img.shields.io/badge/-MONGO_DB-090909?style=for-the-badge&logo=mongodb)
 ![NODEMON](https://img.shields.io/badge/-NODEMON-090909?style=for-the-badge&logo=nodemon)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman)
-![SOCKET IO](https://img.shields.io/badge/-SOCKET_IO-090909?style=for-the-badge&logo=socketio)
+![SOCKET IO](https://img.shields.io/badge/-SOCKET_IO-090909?style=for-the-badge&logo=)
 ![PRETTIER](https://img.shields.io/badge/-PRETTIER-090909?style=for-the-badge&logo=prettier)
 ### **Мои проекты:**
 
