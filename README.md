@@ -4,7 +4,7 @@
  ### **Связь со мной:** 
 <a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
 <a href="https://wa.me/<+79652848383>"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
-<a href="magacoder@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
+<a href="gmailto:magacoder@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
 
 ### **Технологии, используемые мной при разработке:**[
 ](https://img.icons8.com/ios/512/whatsapp.png)
