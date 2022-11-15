@@ -33,6 +33,6 @@
 
 [backend-code](https://github.com/Minor95/Turamisumo)
 
-[![mail.ru](https://img.shields.io/badge/malsagov.sa@inbox.ru-red?style=social&logo=mail.ru)](malsagov.sa@inbox.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](@DeadEndsama)
+[![mail.ru](https://img.shields.io/badge/malsagov.sa@inbox.ru-red?style=social&logo=mail.ru)](magomedcoder@gmail.ccom)
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](@atlantttt)
 ***
