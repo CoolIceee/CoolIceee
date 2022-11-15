@@ -34,6 +34,8 @@
 
 [backend-code](https://github.com/Minor95/Turamisumo)
 <p>
+  
+ ### **Связь со мной:** 
 <a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>  
 
 ***
