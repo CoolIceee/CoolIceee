@@ -1,4 +1,5 @@
-## **Приветствую  👋🏻**
+
+### <h1 align="center" dir="auto" border-bottom="1px solid">Приветствую <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></h1>
 
 ### **Технологии, используемые мной при разработке:**
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
@@ -32,7 +33,9 @@
 [client-code](https://github.com/Minor95/TuramisumoFrontend)
 
 [backend-code](https://github.com/Minor95/Turamisumo)
+<p>
+<a class="padding-right:16px" href="https://t.me/+79280898875"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>  <a class="padding-right:16px" href="mailto:aozniev98@mail.ru"><img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="mail.ru" width="25" height="25" title="mail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" style="max-width: 100%;"></a>  <a href="https://discord.com/channels/@Abubakar#6941"><img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="discord.com" width="25" height="25" title="discord" data-canonical-src="https://cdn.worldvectorlogo.com/logos/discord.svg" style="max-width: 100%;"></a>
+<a href="https://wa.me/<+79899348589>"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" alt="whatsapp" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
+</p>
 
-[![mail.ru](https://img.shields.io/badge/magomedcoder@gmail.com-red?style=social&logo=mail.ru)](magomedcoder@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](@atlantttt)
 ***
