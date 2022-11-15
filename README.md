@@ -2,9 +2,12 @@
 ### <h1 align="center" dir="auto" border-bottom="1px solid">Приветствую <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></h1>
 
  ### **Связь со мной:** 
-<a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>  
+<a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
+<a href="https://wa.me/<+79899348589>"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
+<a href="https://wa.me/<+79899348589>"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="whatsapp" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
 
-### **Технологии, используемые мной при разработке:**
+### **Технологии, используемые мной при разработке:**[
+](https://img.icons8.com/ios/512/whatsapp.png)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
