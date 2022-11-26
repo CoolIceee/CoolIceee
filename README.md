@@ -5,7 +5,7 @@
 <a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
 
 ### **Технологии, используемые мной при разработке:**[
-](https://img.icons8.com/ios/512/whatsapp.png)
+
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
