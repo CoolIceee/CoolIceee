@@ -37,6 +37,10 @@
 [client-code](https://github.com/Minor95/TuramisumoFrontend)
 
 [backend-code](https://github.com/Minor95/Turamisumo)
+
+* #### Тестовое задание заметки:
+
+[fullstack-code](https://github.com/CoolIceee/note_program)
 <p>
   
 
