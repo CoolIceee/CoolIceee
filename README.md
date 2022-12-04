@@ -34,9 +34,9 @@
 
 * #### Отель Turamisumo - место отдыха клиентов, бронирование отелей и столиков ресторана. Территория для семейного отдыха!
 
-[client-code](https://github.com/Minor95/TuramisumoFrontend)
+[client-code](https://github.com/Cooliceee/TuramisumoFrontend)
 
-[backend-code](https://github.com/Minor95/Turamisumo)
+[backend-code](https://github.com/Cooliceee/Turamisumo)
 
 * #### Тестовое задание заметки:
 
