@@ -28,9 +28,9 @@
 ![PRETTIER](https://img.shields.io/badge/-PRETTIER-090909?style=for-the-badge&logo=prettier)
 ### **Мои проекты:**
 
-* #### Соцсеть soul cookies - общение с друзьями и не только. добавляйся в друзья и смотри посты своих знакомых!
+* #### Соцсеть flame - общение с друзьями и не только. добавляйся в друзья и смотри посты своих знакомых!
 
-[fullstack-code](https://github.com/Minor95/soul_cookies)
+[fullstack-code](https://github.com/Minor95/flame)
 
 * #### Отель Turamisumo - место отдыха клиентов, бронирование отелей и столиков ресторана. Территория для семейного отдыха!
 
