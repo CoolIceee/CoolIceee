@@ -1,48 +1,185 @@
+<h1 align="left">:wave: Hello there!</h1>
 
-### <h1 align="center" dir="auto" border-bottom="1px solid">Приветствую <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></h1>
+<h2 align="left" id="debabin-stack">Tech stack</h2>
 
- ### **Связь со мной:** 
-<a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
+>  General
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
+      </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+    </td>
+  </tr> 
+</table>
 
-### **Технологии, используемые мной при разработке:**[
+>  Code quality
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
-![MATERIAL UI](https://img.shields.io/badge/-MATERIALUI-090909?style=for-the-badge&logo=)
-![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
-![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
-![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
-![REACT ROUTER](https://img.shields.io/badge/-REACT_ROUTER-090909?style=for-the-badge&logo=reactrouter)
-![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
-![REDUX_TOOLKIT](https://img.shields.io/badge/-REDUX_TOOLKIT-090909?style=for-the-badge&logo=redux)
-![AXIOS](https://img.shields.io/badge/-AXIOS-090909?style=for-the-badge&logo=axios)
-![NODE.JS](https://img.shields.io/badge/-NODE.JS-090909?style=for-the-badge&logo=node.js)
-![EXPRESS](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express)
-![MONGOOSE](https://img.shields.io/badge/-MONGOOSE-090909?style=for-the-badge&logo=)
-![MONGO DB](https://img.shields.io/badge/-MONGO_DB-090909?style=for-the-badge&logo=mongodb)
-![NODEMON](https://img.shields.io/badge/-NODEMON-090909?style=for-the-badge&logo=nodemon)
-![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman)
-![SOCKET IO](https://img.shields.io/badge/-SOCKET_IO-090909?style=for-the-badge&logo=)
-![PRETTIER](https://img.shields.io/badge/-PRETTIER-090909?style=for-the-badge&logo=prettier)
-### **Мои проекты:**
+<table width='100%'>
+  <tr>
+     <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
+  </tr> 
+</table>
 
-* #### Соцсеть flame - общение с друзьями и не только. добавляйся в друзья и смотри посты своих знакомых!
+>  Frontend
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+      <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+     <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+</table>
+
+>  Backend
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr> 
+</table>
+
+<h1 align="left"></h1>
+
+### **My projects**
+
+* #### SN flame - chatting with friends and much more. make friends and post!
 
 [fullstack-code](https://github.com/Cooliceee/flame)
 
-* #### Отель Turamisumo - место отдыха клиентов, бронирование отелей и столиков ресторана. Территория для семейного отдыха!
+* #### Hotel Turamisumo - resting place for customers, booking hotels and restaurant tables. Territory for family recreation!
 
 [client-code](https://github.com/Cooliceee/TuramisumoFrontend)
 
 [backend-code](https://github.com/Cooliceee/Turamisumo)
 
-* #### Тестовое задание заметки:
+* #### Note test task
 
 [fullstack-code](https://github.com/CoolIceee/note_program)
 <p>
   
 
+ ### **Contact** 
+<a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
 
 ***
+
+ 
+ 
