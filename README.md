@@ -156,6 +156,9 @@
 
 ### **My projects**
 
+* #### dark style - a store where clothes remind you of your goal
+[fullstack-code](https://github.com/CoolIceee/dark_style)
+
 * #### SN flame - chatting with friends and much more. make friends and post!
 
 [fullstack-code](https://github.com/Cooliceee/flame)
