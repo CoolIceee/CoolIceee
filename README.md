@@ -116,7 +116,9 @@
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="96">
+  </tr> 
+ <tr>
+  <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
@@ -128,7 +130,7 @@
       </a>
       <br>Tailwind
     </td>
-  </tr> 
+ </tr>
 </table>
 
 >  Backend
