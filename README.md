@@ -149,12 +149,6 @@
       </a>
       <br>MongoDB
     </td>
-     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
   </tr> 
 </table>
 
