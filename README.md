@@ -2,6 +2,7 @@
 
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
+
 >  General
  
 <table width='100%'>
@@ -157,6 +158,10 @@
 
 <h1 align="left"></h1>
 
+<a href="#debabin-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolIceee&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
+</a>
+
 ### **My projects**
 
 * #### dark style - a store where clothes remind you of your goal
@@ -180,9 +185,6 @@
 
  ### **Contact** 
 <a class="padding-right:16px" href="https://t.me/atlantttt"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
-<a href="#debabin-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolIceee&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
-</a>
  
 ***
 
