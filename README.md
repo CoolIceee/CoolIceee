@@ -1,7 +1,7 @@
 <div  overflow="hidden" >
  <a href="https://github.com/siberiacancode">
-  <img  src="https://gamerwall.pro/uploads/posts/2022-05/1652435046_1-gamerwall-pro-p-shapka-kanala-minimalizm-oboi-krasivo-1.jpg" alt="
-      siberiacancode" align="center" height="150px" width="100%"  object-fit="cover"/>
+  <img  src="https://github.com/CoolIceee/CoolIceee/blob/main/1652435046_1-gamerwall-pro-p-shapka-kanala-minimalizm-oboi-krasivo-1.jpg" alt="
+      siberiacancode" align="center"  width="100%"  object-fit="cover"/>
 </a>
 </div>
 
