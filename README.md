@@ -5,8 +5,6 @@
 </a>
 </div>
 
-<h1 align="left">:wave: Hello there!</h1>
-
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 
