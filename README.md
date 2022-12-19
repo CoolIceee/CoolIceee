@@ -1,6 +1,6 @@
 <div  overflow="hidden" >
  <a href="https://github.com/siberiacancode">
-  <img  src="https://github.com/CoolIceee/CoolIceee/blob/main/1652435046_1-gamerwall-pro-p-shapka-kanala-minimalizm-oboi-krasivo-1.jpg" alt="
+  <img  src="https://github.com/CoolIceee/CoolIceee/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-12-19%20%D0%B2%2017.15.28.jpeg" alt="
       siberiacancode" align="center"  width="100%"  object-fit="cover"/>
 </a>
 </div>
