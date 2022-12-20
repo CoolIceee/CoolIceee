@@ -170,7 +170,10 @@
 ### **My projects**
 
 * #### dark style - a store where clothes remind you of your goal
-[fullstack-code](https://github.com/CoolIceee/dark_style)
+
+[client-code](https://github.com/CoolIceee/dark_style)
+
+[backend-code](https://github.com/CoolIceee/server_limon)
 
 * #### SN flame - chatting with friends and much more. make friends and post!
 
