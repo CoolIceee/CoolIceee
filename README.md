@@ -169,7 +169,7 @@
 
 ### **My projects**
 
-* #### dark style - a store where clothes remind you of your goal
+* #### style - a store where clothes remind you of your goal
 
 [client-code](https://github.com/CoolIceee/dark_style)
 
