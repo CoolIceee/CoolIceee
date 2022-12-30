@@ -1,3 +1,12 @@
+
+
+<a href="#debabin-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=debabin&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
+</a>
+
+<br/><br/><br/><br/><br/><br/>
+
+
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 
