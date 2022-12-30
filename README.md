@@ -1,6 +1,3 @@
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CoolIceee&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 
