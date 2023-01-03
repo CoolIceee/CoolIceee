@@ -10,7 +10,7 @@
   <tr>
     <td align="center" width="93">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-javascript-50.png" width="48" height="48" alt="JavaScript" />
       </a>
      <br><sup>JavaScript</sup>
     </td>
@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"/>
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-typescript-100.png" width="48" height="48" alt="TypeScript"/>
       </a>
       <br><sup>TypeScript</sup>
     </td>
