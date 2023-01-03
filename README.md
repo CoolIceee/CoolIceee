@@ -5,53 +5,53 @@
  
 <table width='100%'>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="93">
       <a href="#debabin-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+     <br><sup>JavaScript</sup>
     </td>
    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>C#
+      <br><sup>C#</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"/>
       </a>
-      <br>TypeScript
+      <br><sup>TypeScript</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
-      <br>Figma
+      <br><sup>Figma</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Git
+      <br><sup>Git</sup>
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
       </a>
-      <br>Yarn
+      <br><sup>Yarn</sup>
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
-      <br>Npm
+      <br><sup>Npm</sup>
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
       </a>
-      <br>Github
+      <br><sup>Github</sup>
     </td>
   </tr> 
 </table>
@@ -64,13 +64,13 @@
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
       </a>
-      <br>Eslint
+      <br><sup>Eslint</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
       </a>
-      <br>Prettier
+      <br><sup>Prettier</sup>
     </td>
   </tr> 
 </table>
@@ -83,43 +83,43 @@
       <a href="#debabin-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
-      <br>React JS
+     <br><sup>React JS</sup>
     </td>
       <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br>Redux
+      <br><sup>Redux</sup>
     </td>
      <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>MUI
+      <br><sup>MUI</sup>
     </td>
    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+      <br><sup>Bootstrap</sup>
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       </a>
-      <br>Css3
+      <br><sup>Css3</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
-      <br>Html5
+      <br><sup>Html5</sup>
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
       </a>
-      <br>Webpack
+      <br><sup>Webpack</sup>
     </td>
   </tr> 
 </table>
@@ -129,13 +129,13 @@
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>Sass
+      <br><sup>Sass</sup>
     </td>
    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Tailwind
+      <br><sup>Tailwind</sup>
     </td>
  </tr>
 </table>
@@ -149,13 +149,13 @@
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
       </a>
-      <br>Node JS
+      <br><sup>Node JS</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
       </a>
-      <br>MongoDB
+      <br><sup>MongoDB</sup>
     </td>
   </tr> 
 </table>
