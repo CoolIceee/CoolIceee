@@ -10,15 +10,9 @@
   <tr>
     <td align="center" width="93">
       <a href="#debabin-stack">
-        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icons8-js-%D0%B2-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%B5-96%20(1).png" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-js-%D0%B2-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%B5-96%20(1).png" />
       </a>
      <br><sup>JavaScript</sup>
-    </td>
-   <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br><sup>C#</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
@@ -26,33 +20,39 @@
       </a>
       <br><sup>TypeScript</sup>
     </td>
+     <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-cs-100.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br><sup>C#</sup>
+    </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-figma-100.png" width="45" height="45" alt="Figma" />
       </a>
       <br><sup>Figma</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-git-100.png" width="48" height="48" alt="Git" />
       </a>
       <br><sup>Git</sup>
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-yarn-128.png" width="48" height="48" alt="yarn" />
       </a>
       <br><sup>Yarn</sup>
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-npm-128.png" width="48" height="48" alt="npm" />
       </a>
       <br><sup>Npm</sup>
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-github-96.png" width="48" height="48" alt="github" />
       </a>
       <br><sup>Github</sup>
     </td>
@@ -65,13 +65,13 @@
   <tr>
      <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-eslint-144.png" width="48" height="48" alt="Eslint" />
       </a>
       <br><sup>Eslint</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-p-100.png" width="48" height="48" alt="Prettier" />
       </a>
       <br><sup>Prettier</sup>
     </td>
@@ -84,43 +84,43 @@
   <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F-80.png" width="48" height="48" alt="React" />
       </a>
      <br><sup>React JS</sup>
     </td>
       <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-redux-100.png" width="48" height="48" alt="Redux" />
       </a>
       <br><sup>Redux</sup>
     </td>
      <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-material-ui-144.png" width="48" height="48" alt="Material UI" />
       </a>
       <br><sup>MUI</sup>
     </td>
    <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-bootstrap-128.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br><sup>Bootstrap</sup>
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-css3-100.png" width="48" height="48" alt="css3" />
       </a>
       <br><sup>Css3</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-html-5-96.png" width="48" height="48" alt="Html5" />
       </a>
       <br><sup>Html5</sup>
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-webpack-128.png" width="48" height="48" alt="Webpack" />
       </a>
       <br><sup>Webpack</sup>
     </td>
@@ -130,13 +130,13 @@
   <tr>
   <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-sass-150.png" width="48" height="48" alt="Sass" />
       </a>
       <br><sup>Sass</sup>
     </td>
    <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-tailwindcss-144.png" width="48" height="48" alt="Tailwind" />
       </a>
       <br><sup>Tailwind</sup>
     </td>
@@ -150,13 +150,13 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-node-js-128.png" width="48" height="48" alt="Node JS" />
       </a>
       <br><sup>Node JS</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br><sup>MongoDB</sup>
     </td>
