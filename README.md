@@ -51,7 +51,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+        <img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" width="48" height="48" alt="github" />
       </a>
       <br>Github
     </td>
