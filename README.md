@@ -1,3 +1,6 @@
+<img src="https://github.com/CoolIceee/CoolIceee/blob/main/headerv2.jpeg" alt="
+      siberiacancode" align="center"/>
+
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 
