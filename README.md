@@ -161,13 +161,7 @@
   </tr> 
 </table>
 
-<h1 align="left"></h1>
-
-
-
-<br/>
-
-<h2 align="center" id="debabin-stack">My projects</h2>
+<h2 align="center">My projects</h2>
 
 
 > <h3> Style</h3> • a store where clothes remind you of your goal
