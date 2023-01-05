@@ -10,7 +10,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-javascript-100.png"  width="48" height="48" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icons8-javascript-90.png"  width="48" height="48" />
       </a>
      <br><sup>JavaScript</sup>
     </td>
