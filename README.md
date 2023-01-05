@@ -10,19 +10,19 @@
   <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icons8-javascript-90.png"  width="48" height="48" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-javascript-90.png"  width="48" height="48" />
       </a>
      <br><sup>JavaScript</sup>
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-typescript-100.png" width="48" height="48" alt="TypeScript"/>
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-typescript-96.png" width="48" height="48" alt="TypeScript"/>
       </a>
       <br><sup>TypeScript</sup>
     </td>
      <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-cs-100.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-c-sharp-100.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br><sup>C#</sup>
     </td>
@@ -40,13 +40,13 @@
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-yarn-128.png" width="48" height="48" alt="yarn" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-yarn-96.png" width="48" height="48" alt="yarn" />
       </a>
       <br><sup>Yarn</sup>
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-npm-128.png" width="48" height="48" alt="npm" />
+        <img src="https://github.com/CoolIceee/CoolIceee/blob/main/icon/icons8-npm-96.png" width="48" height="48" alt="npm" />
       </a>
       <br><sup>Npm</sup>
     </td>
