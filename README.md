@@ -3,7 +3,6 @@
 
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
-
 >  General
  
 <table width='100%'>
@@ -164,37 +163,58 @@
 
 <h1 align="left"></h1>
 
+
+
+<br/>
+
+<h2 align="center" id="debabin-stack">My projects</h2>
+
+
+> <h3> Style</h3> • a store where clothes remind you of your goal
+
+<h4>
+      
+[client-code](https://github.com/CoolIceee/dark_style) • [backend-code](https://github.com/CoolIceee/server_limon)
+      
+</h4>
+
+
+
+> <h3> SN flame</h3> • chatting with friends and much more. make friends and post!
+
+<h4>
+      
+[fullstack-code](https://github.com/Cooliceee/flame)
+      
+</h4>
+
+> <h3> Hotel Turamisumo</h3> • resting place for customers, booking hotels and restaurant tables. Territory for family recreation!
+
+
+<h4>
+      
+[client-code](https://github.com/Cooliceee/TuramisumoFrontend) • [backend-code](https://github.com/Cooliceee/Turamisumo)
+      
+</h4>
+
+
+
+
+> <h3> Note test task</h3> • technical task
+
+<h4>
+      
+[fullstack-code](https://github.com/CoolIceee/note_program)
+      
+</h4>
+
+
 <a href="#debabin-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolIceee&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
 </a>
 
-<br/>
-
-### **My projects**
-
-* #### style - a store where clothes remind you of your goal
-
-[client-code](https://github.com/CoolIceee/dark_style)
-
-[backend-code](https://github.com/CoolIceee/server_limon)
-
-* #### SN flame - chatting with friends and much more. make friends and post!
-
-[fullstack-code](https://github.com/Cooliceee/flame)
-
-* #### Hotel Turamisumo - resting place for customers, booking hotels and restaurant tables. Territory for family recreation!
-
-[client-code](https://github.com/Cooliceee/TuramisumoFrontend)
-
-[backend-code](https://github.com/Cooliceee/Turamisumo)
-
-* #### Note test task
-
-[fullstack-code](https://github.com/CoolIceee/note_program)
-<p>
-  
-
+***
  ### **Contact** 
 <a class="padding-right:16px" href="https://t.me/mxmenw"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
- 
-***
+
+
