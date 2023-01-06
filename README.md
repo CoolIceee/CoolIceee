@@ -168,7 +168,7 @@
 
 <h4>
       
-[client-code](https://github.com/CoolIceee/dark_style) • [backend-code](https://github.com/CoolIceee/server_limon)
+[fullstack-code](https://github.com/CoolIceee/dark_style)
       
 </h4>
 
@@ -181,16 +181,6 @@
 [fullstack-code](https://github.com/Cooliceee/flame)
       
 </h4>
-
-> <h3> Hotel Turamisumo</h3> • resting place for customers, booking hotels and restaurant tables. Territory for family recreation!
-
-
-<h4>
-      
-[fullstack-code](https://github.com/Cooliceee/TuramisumoFrontend)
-      
-</h4>
-
 
 
 
