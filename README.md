@@ -187,7 +187,7 @@
 
 <h4>
       
-[client-code](https://github.com/Cooliceee/TuramisumoFrontend) • [backend-code](https://github.com/Cooliceee/Turamisumo)
+[fullstack-code](https://github.com/Cooliceee/TuramisumoFrontend)
       
 </h4>
 
