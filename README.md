@@ -19,12 +19,6 @@
       </a>
       <br>TypeScript
     </td>
-         <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>C#
-    </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
@@ -122,16 +116,16 @@
       </a>
       <br>Webpack
     </td>
-         <td align="center" width="96">
+  </tr> 
+</table>
+<table>
+  <tr>
+           <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
-  </tr> 
-</table>
-<table>
-  <tr>
    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
