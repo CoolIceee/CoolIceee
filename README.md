@@ -157,7 +157,7 @@
 <h2 align="center">My projects</h2>
 
 
-> <h3> Style</h3> • a store where clothes remind you of your goal
+> <h3> Online store</h3> • online clothing store for every taste
 
 <h4>
       
@@ -166,8 +166,7 @@
 </h4>
 
 
-
-> <h3> SN flame</h3> • chatting with friends and much more. make friends and post!
+> <h3> Social network</h3> • it is planned to transfer the site to a new stack
 
 <h4>
       
@@ -176,8 +175,7 @@
 </h4>
 
 
-
-> <h3> Note test task</h3> • technical task
+> <h3> App notes website</h3> • technical task
 
 <h4>
       
