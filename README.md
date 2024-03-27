@@ -127,7 +127,7 @@
     </td>
    <td align="center" width="60">
       <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" alt="Tailwind" />
+        <img src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" width="30" height="30" alt="Tailwind" />
       </a>
     </td>
  </tr>
